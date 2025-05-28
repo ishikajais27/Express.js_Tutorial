@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018
+  },
+  {
+    "id": 2,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925
+  },
+  {
+    "id": 6,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011
+  },
+  {
+    "id": 7,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "year": 2018
+  },
+  {
+    "id": 8,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "year": 1997
+  },
+  {
+    "id": 9,
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "year": 1937
+  },
+  {
+    "id": 10,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "year": 1997
+  },
+  {
+    "id": 11,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016
+  },
+  {
+    "id": 12,
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "year": 2018
+  },
+  {
+    "id": 13,
+    "title": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "year": 2018
+  },
+  {
+    "id": 14,
+    "title": "Ikigai",
+    "author": "Francesc Miralles",
+    "year": 2016
+  },
+  {
+    "id": 15,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "year": 2016
+  },
+  {
+    "id": 16,
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "year": 2009
+  },
+  {
+    "id": 17,
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "year": 2014
+  },
+  {
+    "id": 18,
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "year": 2014
+  },
+  {
+    "id": 19,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011
+  },
+  {
+    "id": 20,
+    "title": "Crushing It!",
+    "author": "Gary Vaynerchuk",
+    "year": 2018
+  }
+]
