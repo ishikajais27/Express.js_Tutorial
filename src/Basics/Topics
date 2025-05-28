@@ -1,0 +1,13 @@
+1-> Routing(GET,POST,PUT DELETE)
+HTTP methods (GET, POST, PUT, DELETE).
+Route paths (/users, /users/:id).
+req.params, req.query, req.body
+
+2-> Middleware
+Concept of middleware (app.use()).
+Built-in middleware (express.json(), express.urlencoded()).
+Third-party middleware (cors, helmet, morgan).
+
+3->Error Handling
+Basic error handling (try-catch).
+Custom error middleware.

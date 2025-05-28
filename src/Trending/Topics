@@ -1,0 +1,15 @@
+1->Serverless Express
+AWS Lambda + Express (serverless-http).
+Edge functions (Vercel, Cloudflare).
+
+2->GraphQL with Express
+Apollo Server integration.
+
+3->TypeScript + Express
+Setting up Express with TypeScript.
+
+4->AI Integration
+Adding OpenAI/ChatGPT APIs to Express.
+
+5->Web3 & Blockchain
+Building blockchain APIs (Ethereum, Solana).
